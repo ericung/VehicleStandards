@@ -48,9 +48,31 @@ Conclusion: Corolla lost $268.89 per unit between 2021 and 2022.
 
 ### Mustang 2022
 
+**2022**
+
 Sales = 44,332
 
-MSRP = 52,414
+MSRP = [27470,55270]
+
+Standard = $`\sqrt[27470]{44332}`$ = 1.0002305789969
+
+**2021**
+
+Sales = 52,414
+
+MSRP = [27205,52400]
+
+Standard = $`\sqrt[27205]{52414}`$ = 1.0003995258105
+
+**Difference between 2021 and 2022**
+
+StandardDifference = 1.0002305789969 - 1.0003995258105 = 
+
+TotalSales = = 471,209
+
+UnitDifference = TotalSales$`\times`$StandardDifference = -79.609304895941
+
+Conclusion: Mustang lost $79.61 per unit between 2021 and 2022.
 
 -----
 
