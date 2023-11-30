@@ -102,7 +102,7 @@ UnitDifference = 1.2358209187409814
 
 Conclusion: Tesla Model 3 gained $1.24 per unit between 2021 and 2022.
 
-### Ram Pickup 2021
+### Ram Promaster City 2021
 
 **2021**
 
@@ -158,33 +158,82 @@ UnitDifference = -0.5946991369608796
 
 Conclusion: Nissan Armada lost $0.59 per unit between 2021 and 2022.
 
-### Nissan Armada 2022
+### Mercedes A Class 2022
 
 **2022**
 
-Sales = 11923
+Sales = 4030
 
-MSRP = [49900,69200]
+MSRP = [33950, 35950]
 
-Standard = 1.000188118385167
+Standard = 1.000244551890721 
 
 **2021**
 
 Sales = 22814
 
-MSRP = [48900,68300]
+MSRP = [333650,35650]
 
-Standard = 1.0002052384340188
+Standard = 1.0002675129373921
 
 **Difference between 2021 and 2022**
 
-StandardDifference = -0.000017120048851682057
+StandardDifference = -0.00002296104667109944
 
-TotalSales = 34737
+TotalSales = 12138
 
-UnitDifference = -0.5946991369608796
+UnitDifference = -0.278701184493805
 
-Conclusion: Nissan Armada lost $0.59 per unit between 2021 and 2022.
+Conclusion: Mercedes A Class lost $0.28 per unit between 2021 and 2022.
+
+### Aston Martin Vantage V8 and V12 2010
+
+**2012**
+
+Sales = 753
+
+MSRP = [118650,147700] for *V8* and [180535,195895] for *V12*
+
+MSRPAverage = (118650 + 180535)/2 = 149592.50
+
+Standard = 1.0000442817112434
+
+**2011**
+
+Sales = 859
+
+MSRP = [118650,149700] for *V8* and [180535,191995] for *V12*
+
+MSRPAverage = 149,592.5
+
+Standard = 1.0000451621670432
+
+**Difference between 2011 and 2012**
+
+StandardDifference = -8.804557998232099e-7
+
+TotalSales = 1612
+
+UnitDifference = -0.0014192947493150143
+
+Conclusion: Aston Martin Vantage V8 and V12 lost $0.00 per unit between 2011 and 2012.
+
+### Conclusion
+
+Corolla lost $268.89 per unit between 2021 and 2022.
+* Corolla's are known for reliability and longevity
+
+Mustang lost $79.61 per unit between 2021 and 2022.
+
+Tesla Model 3 gained $1.24 per unit between 2021 and 2022.
+
+Ram Promaster City lost $0.02 per unit between 2021 and 2022.
+
+Nissan Armada lost $0.59 per unit between 2021 and 2022.
+
+Mercedes A Class lost $0.28 per unit between 2021 and 2022.
+
+Aston Martin Vantage V8 and V12 lost $0.00 per unit between 2011 and 2012.
 
 -----
 
@@ -193,6 +242,10 @@ Conclusion: Nissan Armada lost $0.59 per unit between 2021 and 2022.
 https://carfigures.com/us-market-brand/toyota/corolla
 
 https://www.cars.com/research/toyota-corolla
+
+https://carfigures.com/us-market-brand/ford/mustang
+
+https://www.cars.com/research/ford-mustang
 
 https://carfigures.com/us-market-brand/tesla/model-3
 
@@ -205,3 +258,13 @@ https://www.cars.com/research/ram-promaster_city
 https://carfigures.com/us-market-brand/nissan/armada
 
 https://www.cars.com/research/nissan-armada
+
+https://carfigures.com/us-market-brand/mercedes-benz/a-class
+
+https://www.cars.com/research/mercedes_benz-a_class/
+
+https://www.goodcarbadcar.net/aston-martin-vantage-sales-figures/
+
+https://www.cars.com/research/aston_martin-v8_vantage/
+
+https://www.cars.com/research/aston_martin-v12_vantage/
