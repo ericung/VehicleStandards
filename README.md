@@ -239,32 +239,36 @@ Aston Martin Vantage V8 and V12 lost $0.00 per unit between 2011 and 2012.
 
 ### References
 
-https://carfigures.com/us-market-brand/toyota/corolla
+Ung, E. (2024). Ideal Manager. https://github.com/ericung/IdealManager
 
-https://www.cars.com/research/toyota-corolla
+Carfigures. (2021). Toyota Corolla. Retrieved November 30, 2023, from https://carfigures.com/us-market-brand/toyota/corolla
 
-https://carfigures.com/us-market-brand/ford/mustang
+Cars.com. (2021). Toyota Corolla. Retrieved November 30, 2023, from https://www.cars.com/research/toyota-corolla
 
-https://www.cars.com/research/ford-mustang
+Carfigures. (2021). Ford Mustang. Retrieved November 30, 2023, from https://carfigures.com/us-market-brand/ford/mustang
 
-https://carfigures.com/us-market-brand/tesla/model-3
+Cars.com. (2021). Ford Mustang. Retrieved November 30, 2023, from https://www.cars.com/research/ford-mustang
 
-https://www.cars.com/research/tesla-model_3-2022
+Carfigures. (2021). Tesla Model 3. Retrieved November 30, 2023, from https://carfigures.com/us-market-brand/tesla/model-3
 
-https://carfigures.com/canada-market-brand/ram/promaster
+Cars.com. (2021). Tesla Model 3. Retrieved November 30, 2023, from https://www.cars.com/research/tesla-model_3-2022
 
-https://www.cars.com/research/ram-promaster_city
+Carfigures. (2021). Ram ProMaster. Retrieved November 30, 2023, from https://carfigures.com/canada-market-brand/ram/promaster
 
-https://carfigures.com/us-market-brand/nissan/armada
+Cars.com. (2021). Ram ProMaster City. Retrieved November 30, 2023, from https://www.cars.com/research/ram-promaster_city
 
-https://www.cars.com/research/nissan-armada
+Carfigures. (2021). Nissan Armada. Retrieved November 30, 2023, from https://carfigures.com/us-market-brand/nissan/armada
 
-https://carfigures.com/us-market-brand/mercedes-benz/a-class
+Cars.com. (2021). Nissan Armada. Retrieved November 30, 2023, from https://www.cars.com/research/nissan-armada
 
-https://www.cars.com/research/mercedes_benz-a_class/
+Carfigures. (2021). Mercedes-Benz A-Class. Retrieved November 30, 2023, from https://carfigures.com/us-market-brand/mercedes-benz/a-class
 
-https://www.goodcarbadcar.net/aston-martin-vantage-sales-figures/
+Cars.com. (2021). Mercedes-Benz A-Class. Retrieved November 30, 2023, from https://www.cars.com/research/mercedes_benz-a_class
 
-https://www.cars.com/research/aston_martin-v8_vantage/
+GoodCarBadCar. (2021). Aston Martin V8/V12 Vantage Sales Figures. Retrieved November 30, 2023, from https://www.goodcarbadcar.net/aston-martin-vantage-sales-figures
 
-https://www.cars.com/research/aston_martin-v12_vantage/
+Cars.com. (2021). Aston Martin V8 Vantage Models, Generations & Redesigns. Retrieved November 30, 2023, from https://www.cars.com/research/aston_martin-v8_vantage
+
+Cars.com. (2021). Aston Martin V12 Vantage Models, Generations & Redesigns. Retrieved November 30, 2023, from https://www.cars.com/research/aston_martin-v12_vantage
+
+Mitra., A. (2021). University of Minnesota. Retrieved November 30, 2023, from https://www-users.cse.umn.edu/~am/
