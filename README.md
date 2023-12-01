@@ -18,6 +18,8 @@ TotalSales = SalesOfYearA + SalesOfYearB
 
 UnitDifference = TotalSales$`\times`$StandardDifference $`\equiv`$ Cost per unit difference between YearA and YearB
 
+[Calculator](https://ungericwei.neocities.org/VehicleStandards)
+
 ### Corolla
 
 **2022**
